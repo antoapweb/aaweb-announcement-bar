@@ -1,0 +1,487 @@
+# Copyright (C) 2026 AAWEB - Apostolou Antonios
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: AAWEB Announcement Bar 1.4.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/aaweb-announcement-bar\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-06-22T12:02:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: aaweb-announcement-bar\n"
+
+#. Plugin Name of the plugin
+#: aaweb-announcement-bar.php:3
+#: includes/class-aaweb-announcement-bar-admin.php:44
+#: includes/class-aaweb-announcement-bar-admin.php:45
+#: includes/class-aaweb-announcement-bar-admin.php:268
+msgid "AAWEB Announcement Bar"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: aaweb-announcement-bar.php:4
+msgid "https://antoapweb.gr/"
+msgstr ""
+
+#. Description of the plugin
+#: aaweb-announcement-bar.php:5
+msgid "Add a lightweight, customizable announcement bar with scheduling, dismiss button, device visibility, page rules, and WooCommerce exclusions."
+msgstr ""
+
+#. Author of the plugin
+#: aaweb-announcement-bar.php:10
+msgid "AAWEB - Apostolou Antonios"
+msgstr ""
+
+#. Author URI of the plugin
+#: aaweb-announcement-bar.php:11
+msgid "https://antoapweb.gr"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:106
+msgid "Enabled"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:106
+msgid "Disabled"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:117
+msgid "Announcement Bar"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:118
+msgid "Build a polished top notification bar with CTA button styling, scheduling, responsive rules, WooCommerce exclusions and visitor dismiss control."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:126
+#: includes/class-aaweb-announcement-bar-admin.php:271
+msgid "Save settings"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:131
+msgid "Display"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:132
+#: includes/class-aaweb-announcement-bar-admin.php:216
+msgid "Devices"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:133
+msgid "CTA"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:133
+msgid "Active"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:133
+msgid "Off"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:134
+msgid "Width"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:134
+msgid "Full width"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:138
+msgid "Announcement bar settings sections"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:139
+msgid "Content"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:140
+msgid "CTA Button"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:141
+msgid "Design"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:142
+msgid "Rules"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:143
+#: includes/class-aaweb-announcement-bar-admin.php:228
+msgid "Advanced"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:149
+msgid "Content & message"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:149
+msgid "Choose plain text or safe HTML and control the announcement copy."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:151
+msgid "Enable announcement bar"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:151
+msgid "Turn the frontend bar on or off."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:152
+msgid "Content mode"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:152
+msgid "Plain text"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:152
+msgid "Safe HTML"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:155
+msgid "Text message"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:155
+msgid "Used when content mode is Plain text."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:158
+msgid "HTML content"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:158
+msgid "Used when content mode is Safe HTML. WordPress safe post HTML filtering is applied."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:163
+msgid "CTA button"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:163
+msgid "Style the call-to-action independently from the text so both stay aligned and clickable."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:165
+msgid "Enable CTA button"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:166
+msgid "Open link"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:166
+msgid "Same tab"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:166
+msgid "New tab"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:167
+msgid "Button URL"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:168
+msgid "Button text"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:169
+msgid "Button position"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:169
+msgid "After content"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:169
+msgid "Before content"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:170
+msgid "Button visibility"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:170
+#: includes/class-aaweb-announcement-bar-admin.php:216
+msgid "All devices"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:170
+#: includes/class-aaweb-announcement-bar-admin.php:216
+msgid "Desktop only"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:170
+#: includes/class-aaweb-announcement-bar-admin.php:216
+msgid "Mobile only"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:171
+msgid "Button animation"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:171
+msgid "None"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:171
+msgid "Pulse"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:171
+msgid "Bounce"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:171
+msgid "Glow"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:173
+msgid "Button style"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:175
+#: includes/class-aaweb-announcement-bar-admin.php:194
+msgid "Background"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:176
+#: includes/class-aaweb-announcement-bar-admin.php:195
+msgid "Text color"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:177
+msgid "Hover background"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:178
+msgid "Hover text"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:179
+#: includes/class-aaweb-announcement-bar-admin.php:197
+msgid "Border color"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:180
+msgid "Border width"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:181
+msgid "Radius"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:182
+msgid "Padding Y"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:183
+msgid "Padding X"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:184
+#: includes/class-aaweb-announcement-bar-admin.php:198
+msgid "Font size"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:185
+#: includes/class-aaweb-announcement-bar-admin.php:199
+msgid "Font weight"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:186
+msgid "Margin left"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:187
+msgid "Margin right"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:192
+msgid "Design & layout"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:192
+msgid "Control colors, typography, width and the horizontal / vertical alignment of text and button."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:196
+msgid "Link color"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:202
+msgid "Container width"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:202
+msgid "Leave empty or 0 for full width."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:203
+msgid "Horizontal alignment"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:203
+msgid "Left"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:203
+msgid "Center"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:203
+msgid "Right"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:204
+msgid "Vertical alignment"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:204
+msgid "Top"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:204
+msgid "Middle"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:204
+msgid "Bottom"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:207
+msgid "Sticky at top"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:208
+msgid "Show bottom border"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:213
+msgid "Visibility & schedule"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:213
+msgid "Choose where, when and on which devices the bar appears."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:215
+msgid "Display rule"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:215
+msgid "Sitewide"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:215
+msgid "Homepage only"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:215
+msgid "Everywhere except cart / checkout / account"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:217
+msgid "Exclude page IDs"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:217
+msgid "Comma separated IDs."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:218
+msgid "Start date"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:219
+msgid "End date"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:222
+msgid "Allow visitors to close the bar"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:222
+msgid "Uses a small browser cookie/local storage key so the bar stays hidden for the selected days."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:223
+msgid "Show again after"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:223
+msgid "days"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:228
+msgid "Developer-friendly options and preview helper."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:230
+msgid "Custom CSS class"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:232
+msgid "Preview shortcode"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:234
+msgid "The live bar is rendered automatically with wp_body_open when enabled."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:240
+#: includes/class-aaweb-announcement-bar-admin.php:243
+msgid "Live preview"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:244
+msgid "Visual guide based on current fields."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:246
+msgid "Preview"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:254
+msgid "Close preview"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:259
+msgid "Layout note"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:260
+msgid "Text and CTA button are rendered inside the same flex row. The close button stays isolated on the right so it cannot overlap the CTA."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-admin.php:269
+msgid "Save your settings to apply them on the frontend."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-frontend.php:251
+msgid "Close announcement"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-frontend.php:323
+msgid "Site announcement"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-settings.php:31
+msgid "Write your announcement message here."
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar-settings.php:43
+msgid "Learn more"
+msgstr ""
+
+#: includes/class-aaweb-announcement-bar.php:66
+msgid "Settings"
+msgstr ""
